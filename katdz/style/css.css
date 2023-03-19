@@ -1,0 +1,93 @@
+body {
+  background: url(../img/Fingers_Becky_G_Makeup_Manicure_Hands_Face_568428_2700x1137\ \(1\).jpg);
+}
+
+@font-face {
+  font-family: font;
+  src: url(../font/19180.otf);
+}
+
+.fly-on-hover:hover span{
+        transition: transform 300ms;
+        transform: translateY(-10px);
+}
+.fly-on-hover span{
+    display: inline-block;
+}
+.header {
+  font-family:"font";
+  background-color: rgba(179, 149, 27, 0.247);
+    border: 2px solid rgb(231, 130, 46);
+    padding: 5px;
+    height:14vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+a {
+  color: #9f5fa7;
+}
+
+.textik
+{
+  font-family:"font";
+  font-size: 23px;
+  font: weight normal;
+  color: #201b12;
+	padding-left: 10px;
+	line-height: 50px;
+
+}
+
+.vibor{
+  font-family:"font";
+}
+.manik
+{
+  font-family:"font";
+  font-size: 20px;
+  font: weight 300px;;
+  color: #000;
+	padding-left: 10px;
+	line-height: 50px;
+}
+
+.main {
+  font-family:"font";
+  background: linear-gradient(to top, rgba(147, 230, 39, 0.1), transparent);
+    height:14vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position:center;
+    text-align: center;
+    text-align: justify;
+    text-align-last: center;
+    background-color: rgba(179, 149, 27, 0.322);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(201, 111, 37);
+    padding: 5px;
+    height: 500px;
+}
+
+
+.footer {
+  font-family:"font";
+  background: url(../img/2.png);
+    height:14vh;
+    background-repeat: repeat;
+    background-size: cover;
+    text-align: center;
+    text-align: justify;
+    text-align-last: center;
+    background-color: rgba(179, 148, 27, 0.322);
+    color: rgb(231, 130, 46));
+    padding: 5px;
+    border: 2px solid rgb(231, 130, 46);
+}
+.box{
+    height:14vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
